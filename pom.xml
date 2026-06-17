@@ -38,4 +38,11 @@
 
 </build>
 
+<distributionManagement>
+    <repository>
+        <id>nexus</id>
+        <url>http://44.204.18.77:8081/repository/maven-employee-app/</url>
+    </repository>
+</distributionManagement>
+
 </project>
