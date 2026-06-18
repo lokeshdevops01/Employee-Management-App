@@ -41,7 +41,7 @@
 <distributionManagement>
     <repository>
         <id>nexus</id>
-        <url>http://172.31.93.86:8081/repository/maven-employee-app/</url>
+        <url>http://54.146.221.170:8081/repository/maven-employee-app/</url>
     </repository>
 </distributionManagement>
 
